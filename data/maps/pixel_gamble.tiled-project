@@ -1,0 +1,12 @@
+{
+    "automappingRulesFile": "",
+    "commands": [
+    ],
+    "extensionsPath": "../../../game_pygame/maps/extensions",
+    "folders": [
+        "../../../game_pygame/maps"
+    ],
+    "objectTypesFile": "",
+    "propertyTypes": [
+    ]
+}

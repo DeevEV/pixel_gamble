@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.8" tiledversion="1.8.0" orientation="orthogonal" renderorder="right-down" width="54" height="27" tilewidth="64" tileheight="64" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" name="Map Pack" tilewidth="64" tileheight="64" tilecount="196" columns="14">
+  <image source="../../../../../Desktop/mappack/Spritesheet/mapPack_spritesheet.png" width="896" height="896"/>
+ </tileset>
+ <tileset firstgid="197" name="RPGpack" tilewidth="64" tileheight="64" tilecount="1040" columns="40">
+  <image source="../../../../../Desktop/kenneyrpgpack/Spritesheet/RPGpack_sheet_2X.png" width="2560" height="1664"/>
+  <wangsets>
+   <wangset name="Безымянный набор" type="corner" tile="-1">
+    <wangcolor name="Берег" color="#ff0000" tile="-1" probability="1"/>
+    <wangcolor name="Впадины" color="#00ff00" tile="-1" probability="1"/>
+    <wangcolor name="Земля" color="#0000ff" tile="-1" probability="1"/>
+    <wangtile tileid="0" wangid="0,3,0,2,0,3,0,3"/>
+    <wangtile tileid="1" wangid="0,3,0,2,0,2,0,3"/>
+    <wangtile tileid="2" wangid="0,3,0,2,0,2,0,3"/>
+    <wangtile tileid="3" wangid="0,3,0,2,0,2,0,3"/>
+    <wangtile tileid="4" wangid="0,3,0,2,0,2,0,3"/>
+    <wangtile tileid="5" wangid="0,3,0,3,0,2,0,3"/>
+    <wangtile tileid="10" wangid="0,2,0,0,0,2,0,2"/>
+    <wangtile tileid="11" wangid="0,2,0,0,0,0,0,2"/>
+    <wangtile tileid="12" wangid="0,2,0,0,0,0,0,2"/>
+    <wangtile tileid="13" wangid="0,2,0,0,0,0,0,2"/>
+    <wangtile tileid="14" wangid="0,2,0,0,0,0,0,2"/>
+    <wangtile tileid="15" wangid="0,2,0,2,0,0,0,2"/>
+    <wangtile tileid="20" wangid="0,1,0,0,0,1,0,1"/>
+    <wangtile tileid="21" wangid="0,1,0,0,0,0,0,1"/>
+    <wangtile tileid="22" wangid="0,1,0,0,0,0,0,1"/>
+    <wangtile tileid="23" wangid="0,1,0,0,0,0,0,1"/>
+    <wangtile tileid="24" wangid="0,1,0,0,0,0,0,1"/>
+    <wangtile tileid="25" wangid="0,1,0,1,0,0,0,1"/>
+    <wangtile tileid="40" wangid="0,2,0,2,0,3,0,3"/>
+    <wangtile tileid="41" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="42" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="43" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="44" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="45" wangid="0,3,0,3,0,2,0,2"/>
+    <wangtile tileid="47" wangid="0,0,0,3,0,0,0,0"/>
+    <wangtile tileid="48" wangid="0,0,0,0,0,3,0,0"/>
+    <wangtile tileid="50" wangid="0,0,0,0,0,2,0,2"/>
+    <wangtile tileid="51" wangid="0,3,0,3,0,3,0,3"/>
+    <wangtile tileid="52" wangid="0,3,0,3,0,3,0,3"/>
+    <wangtile tileid="53" wangid="0,3,0,3,0,3,0,3"/>
+    <wangtile tileid="54" wangid="0,3,0,3,0,3,0,3"/>
+    <wangtile tileid="55" wangid="0,2,0,2,0,0,0,0"/>
+    <wangtile tileid="57" wangid="0,0,0,2,0,0,0,0"/>
+    <wangtile tileid="58" wangid="0,0,0,0,0,2,0,0"/>
+    <wangtile tileid="60" wangid="0,0,0,0,0,1,0,1"/>
+    <wangtile tileid="65" wangid="0,1,0,1,0,0,0,0"/>
+    <wangtile tileid="67" wangid="0,0,0,1,0,0,0,0"/>
+    <wangtile tileid="68" wangid="0,0,0,0,0,1,0,0"/>
+    <wangtile tileid="80" wangid="0,2,0,2,0,3,0,3"/>
+    <wangtile tileid="81" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="84" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="85" wangid="0,3,0,3,0,2,0,2"/>
+    <wangtile tileid="87" wangid="0,3,0,0,0,0,0,0"/>
+    <wangtile tileid="88" wangid="0,0,0,0,0,0,0,3"/>
+    <wangtile tileid="90" wangid="0,0,0,0,0,2,0,2"/>
+    <wangtile tileid="91" wangid="0,3,0,3,0,3,0,3"/>
+    <wangtile tileid="94" wangid="0,3,0,3,0,3,0,3"/>
+    <wangtile tileid="95" wangid="0,2,0,2,0,0,0,0"/>
+    <wangtile tileid="97" wangid="0,2,0,0,0,0,0,0"/>
+    <wangtile tileid="98" wangid="0,0,0,0,0,0,0,2"/>
+    <wangtile tileid="100" wangid="0,0,0,0,0,1,0,1"/>
+    <wangtile tileid="105" wangid="0,1,0,1,0,0,0,0"/>
+    <wangtile tileid="107" wangid="0,1,0,0,0,0,0,0"/>
+    <wangtile tileid="108" wangid="0,0,0,0,0,0,0,1"/>
+    <wangtile tileid="120" wangid="0,2,0,2,0,3,0,3"/>
+    <wangtile tileid="121" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="124" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="125" wangid="0,3,0,3,0,2,0,2"/>
+    <wangtile tileid="130" wangid="0,0,0,0,0,2,0,2"/>
+    <wangtile tileid="131" wangid="0,3,0,3,0,3,0,3"/>
+    <wangtile tileid="134" wangid="0,3,0,3,0,3,0,3"/>
+    <wangtile tileid="135" wangid="0,2,0,2,0,0,0,0"/>
+    <wangtile tileid="140" wangid="0,0,0,0,0,1,0,1"/>
+    <wangtile tileid="145" wangid="0,1,0,1,0,0,0,0"/>
+    <wangtile tileid="160" wangid="0,2,0,2,0,3,0,3"/>
+    <wangtile tileid="161" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="162" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="163" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="164" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="165" wangid="0,3,0,3,0,2,0,2"/>
+    <wangtile tileid="170" wangid="0,0,0,0,0,2,0,2"/>
+    <wangtile tileid="171" wangid="0,3,0,3,0,3,0,3"/>
+    <wangtile tileid="172" wangid="0,3,0,3,0,3,0,3"/>
+    <wangtile tileid="173" wangid="0,3,0,3,0,3,0,3"/>
+    <wangtile tileid="174" wangid="0,3,0,3,0,3,0,3"/>
+    <wangtile tileid="175" wangid="0,2,0,2,0,0,0,0"/>
+    <wangtile tileid="180" wangid="0,0,0,0,0,1,0,1"/>
+    <wangtile tileid="185" wangid="0,1,0,1,0,0,0,0"/>
+    <wangtile tileid="200" wangid="0,2,0,3,0,3,0,3"/>
+    <wangtile tileid="201" wangid="0,2,0,3,0,3,0,2"/>
+    <wangtile tileid="202" wangid="0,2,0,3,0,3,0,2"/>
+    <wangtile tileid="203" wangid="0,2,0,3,0,3,0,2"/>
+    <wangtile tileid="204" wangid="0,2,0,3,0,3,0,2"/>
+    <wangtile tileid="205" wangid="0,3,0,3,0,3,0,2"/>
+    <wangtile tileid="210" wangid="0,0,0,2,0,2,0,2"/>
+    <wangtile tileid="211" wangid="0,0,0,2,0,2,0,0"/>
+    <wangtile tileid="212" wangid="0,0,0,2,0,2,0,0"/>
+    <wangtile tileid="213" wangid="0,0,0,2,0,2,0,0"/>
+    <wangtile tileid="214" wangid="0,0,0,2,0,2,0,0"/>
+    <wangtile tileid="215" wangid="0,2,0,2,0,2,0,0"/>
+    <wangtile tileid="220" wangid="0,0,0,1,0,1,0,1"/>
+    <wangtile tileid="221" wangid="0,0,0,1,0,1,0,0"/>
+    <wangtile tileid="222" wangid="0,0,0,1,0,1,0,0"/>
+    <wangtile tileid="223" wangid="0,0,0,1,0,1,0,0"/>
+    <wangtile tileid="224" wangid="0,0,0,1,0,1,0,0"/>
+    <wangtile tileid="225" wangid="0,1,0,1,0,1,0,0"/>
+   </wangset>
+  </wangsets>
+ </tileset>
+ <tileset firstgid="1237" name="Tiles" tilewidth="1" tileheight="1" tilecount="0" columns="0"/>
+ <tileset firstgid="1237" name="grass_3" tilewidth="64" tileheight="64" tilecount="1" columns="1">
+  <image source="../../../../../Desktop/15 - fixes audio/graphics/grass/grass_3.png" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="1238" name="grass_1" tilewidth="64" tileheight="64" tilecount="1" columns="1">
+  <image source="../../../../../Desktop/15 - fixes audio/graphics/grass/grass_1.png" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="1239" name="grass_2" tilewidth="64" tileheight="64" tilecount="1" columns="1">
+  <image source="../../../../../Desktop/15 - fixes audio/graphics/grass/grass_2.png" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="1240" name="06" tilewidth="64" tileheight="64" tilecount="4" columns="2">
+  <image source="../../../../../Desktop/15 - fixes audio/graphics/objects/06.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="1244" name="07" tilewidth="64" tileheight="64" tilecount="4" columns="2">
+  <image source="../../../../../Desktop/15 - fixes audio/graphics/objects/07.png" width="128" height="128"/>
+  <wangsets>
+   <wangset name="Безымянный набор" type="edge" tile="-1">
+    <wangcolor name="" color="#ff0000" tile="-1" probability="1"/>
+    <wangtile tileid="0" wangid="1,0,1,0,1,0,1,0"/>
+    <wangtile tileid="1" wangid="1,0,1,0,1,0,1,0"/>
+    <wangtile tileid="2" wangid="1,0,1,0,1,0,1,0"/>
+    <wangtile tileid="3" wangid="1,0,1,0,1,0,1,0"/>
+   </wangset>
+  </wangsets>
+ </tileset>
+ <tileset firstgid="1248" name="08" tilewidth="64" tileheight="64" tilecount="4" columns="2">
+  <image source="../../../../../Desktop/15 - fixes audio/graphics/objects/08.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="1252" name="09" tilewidth="64" tileheight="64" tilecount="4" columns="2">
+  <image source="../../../../../Desktop/15 - fixes audio/graphics/objects/09.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="1256" name="10" tilewidth="64" tileheight="64" tilecount="4" columns="2">
+  <image source="../../../../../Desktop/15 - fixes audio/graphics/objects/10.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="1260" name="11" tilewidth="64" tileheight="64" tilecount="2" columns="1">
+  <image source="../../../../../Desktop/15 - fixes audio/graphics/objects/11.png" width="64" height="128"/>
+ </tileset>
+ <tileset firstgid="1262" name="12" tilewidth="64" tileheight="64" tilecount="2" columns="1">
+  <image source="../../../../../Desktop/15 - fixes audio/graphics/objects/12.png" width="64" height="128"/>
+ </tileset>
+ <tileset firstgid="1264" name="13" tilewidth="64" tileheight="64" tilecount="2" columns="1">
+  <image source="../../../../../Desktop/15 - fixes audio/graphics/objects/13.png" width="64" height="128"/>
+ </tileset>
+ <tileset firstgid="1266" name="14" tilewidth="64" tileheight="64" tilecount="2" columns="1">
+  <image source="../../../../../Desktop/15 - fixes audio/graphics/objects/14.png" width="64" height="128"/>
+ </tileset>
+ <tileset firstgid="1268" name="15" tilewidth="64" tileheight="64" tilecount="4" columns="2">
+  <image source="../../../../../Desktop/15 - fixes audio/graphics/objects/15.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="1272" name="16" tilewidth="64" tileheight="64" tilecount="4" columns="2">
+  <image source="../../../../../Desktop/15 - fixes audio/graphics/objects/16.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="1276" name="17" tilewidth="64" tileheight="64" tilecount="4" columns="2">
+  <image source="../../../../../Desktop/15 - fixes audio/graphics/objects/17.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="1280" name="18" tilewidth="64" tileheight="64" tilecount="4" columns="2">
+  <image source="../../../../../Desktop/15 - fixes audio/graphics/objects/18.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="1284" name="19" tilewidth="64" tileheight="64" tilecount="4" columns="2">
+  <image source="../../../../../Desktop/15 - fixes audio/graphics/objects/19.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="1288" name="20" tilewidth="64" tileheight="64" tilecount="4" columns="2">
+  <image source="../../../../../Desktop/15 - fixes audio/graphics/objects/20.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="1292" name="0" tilewidth="64" tileheight="64" tilecount="4" columns="2">
+  <image source="../../../../../Desktop/15 - fixes audio/graphics/objects/0.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="1296" name="01" tilewidth="64" tileheight="64" tilecount="4" columns="2">
+  <image source="../../../../../Desktop/15 - fixes audio/graphics/objects/01.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="1300" name="02" tilewidth="64" tileheight="64" tilecount="4" columns="2">
+  <image source="../../../../../Desktop/15 - fixes audio/graphics/objects/02.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="1304" name="03" tilewidth="64" tileheight="64" tilecount="4" columns="2">
+  <image source="../../../../../Desktop/15 - fixes audio/graphics/objects/03.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="1308" name="04" tilewidth="64" tileheight="64" tilecount="4" columns="2">
+  <image source="../../../../../Desktop/15 - fixes audio/graphics/objects/04.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="1312" name="05" tilewidth="64" tileheight="64" tilecount="4" columns="2">
+  <image source="../../../../../Desktop/15 - fixes audio/graphics/objects/05.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="1316" name="Floor" tilewidth="64" tileheight="64" tilecount="550" columns="22">
+  <image source="../../../../../Desktop/15 - fixes audio/graphics/tilemap/Floor.png" width="1408" height="1600"/>
+  <wangsets>
+   <wangset name="Безымянный набор" type="corner" tile="-1">
+    <wangcolor name="Песок" color="#ff0000" tile="-1" probability="1"/>
+    <wangcolor name="Земля" color="#00ff00" tile="-1" probability="1"/>
+    <wangtile tileid="11" wangid="0,1,0,0,0,1,0,1"/>
+    <wangtile tileid="12" wangid="0,1,0,0,0,0,0,1"/>
+    <wangtile tileid="13" wangid="0,1,0,1,0,0,0,1"/>
+    <wangtile tileid="33" wangid="0,0,0,0,0,1,0,1"/>
+    <wangtile tileid="35" wangid="0,1,0,1,0,0,0,0"/>
+    <wangtile tileid="38" wangid="0,0,0,1,0,0,0,0"/>
+    <wangtile tileid="39" wangid="0,0,0,0,0,1,0,0"/>
+    <wangtile tileid="55" wangid="0,0,0,1,0,1,0,1"/>
+    <wangtile tileid="56" wangid="0,0,0,1,0,1,0,0"/>
+    <wangtile tileid="57" wangid="0,1,0,1,0,1,0,0"/>
+    <wangtile tileid="60" wangid="0,1,0,0,0,0,0,0"/>
+    <wangtile tileid="61" wangid="0,0,0,0,0,0,0,1"/>
+    <wangtile tileid="121" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="143" wangid="0,2,0,0,0,2,0,2"/>
+    <wangtile tileid="144" wangid="0,2,0,0,0,0,0,2"/>
+    <wangtile tileid="145" wangid="0,2,0,2,0,0,0,2"/>
+    <wangtile tileid="165" wangid="0,0,0,0,0,2,0,2"/>
+    <wangtile tileid="167" wangid="0,2,0,2,0,0,0,0"/>
+    <wangtile tileid="170" wangid="0,0,0,2,0,0,0,0"/>
+    <wangtile tileid="171" wangid="0,0,0,0,0,2,0,0"/>
+    <wangtile tileid="187" wangid="0,0,0,2,0,2,0,2"/>
+    <wangtile tileid="188" wangid="0,0,0,2,0,2,0,0"/>
+    <wangtile tileid="189" wangid="0,2,0,2,0,2,0,0"/>
+    <wangtile tileid="192" wangid="0,2,0,0,0,0,0,0"/>
+    <wangtile tileid="193" wangid="0,0,0,0,0,0,0,2"/>
+    <wangtile tileid="244" wangid="0,2,0,2,0,2,0,2"/>
+    <wangtile tileid="245" wangid="0,2,0,2,0,2,0,2"/>
+    <wangtile tileid="264" wangid="0,2,0,2,0,2,0,2"/>
+    <wangtile tileid="265" wangid="0,2,0,2,0,2,0,2"/>
+    <wangtile tileid="266" wangid="0,2,0,2,0,2,0,2"/>
+    <wangtile tileid="267" wangid="0,2,0,2,0,2,0,2"/>
+    <wangtile tileid="268" wangid="0,2,0,2,0,2,0,2"/>
+   </wangset>
+  </wangsets>
+ </tileset>
+ <layer id="1" name="Слой тайлов 1" width="54" height="27">
+  <data encoding="csv">
+0,0,1350,1486,1505,1582,1561,1584,1584,1481,1508,1461,1503,1487,1350,1350,1350,1350,1350,1350,1350,1350,1350,1486,1504,1487,1350,1350,1350,1350,1350,1350,1350,1350,1350,1354,1372,1372,1372,1355,1350,1350,1350,1350,1350,1350,1350,1350,1350,1350,1350,1350,1350,1350,
+0,0,1486,1505,1584,1561,1459,1461,1584,1503,1504,1505,1580,1481,0,1354,1372,1372,1372,1355,0,1486,1504,1505,1581,1503,1504,1504,1487,1350,1350,1350,1350,1350,1350,1351,1437,1437,1437,1371,1372,1372,1355,1350,1354,1372,1372,1372,1372,1372,1372,1372,1372,1355,
+0,1486,1505,1560,1560,1581,1503,1505,1561,1459,1460,1461,1583,1503,1487,1351,1437,1437,1327,1377,1486,1505,1459,1460,1460,1460,1460,1461,1503,1487,0,1354,1372,1372,1372,1373,1437,1437,1437,1437,1437,1437,1371,1372,1373,1437,1437,1437,1437,1437,1437,1437,1437,1349,
+1350,1483,1583,1583,1582,1561,1459,1460,1461,1481,0,1483,1584,1584,1481,1351,1437,1327,1377,1486,1505,1459,1509,1354,1372,1372,1355,1508,1461,1503,1487,1351,1437,1437,1437,1437,1437,1437,1437,1437,1437,1327,1328,1328,1328,1328,1328,1329,1437,1437,1437,1437,1437,1371,
+1486,1505,1583,1580,1583,1580,1503,1487,1483,1481,1486,1505,1459,1461,1481,1351,1327,1377,1486,1505,1459,1354,1372,1373,1437,1437,1371,1355,1508,1461,1481,1351,1437,1437,1437,1437,1437,1437,1437,1437,1327,1377,1486,1504,1504,1504,1487,1351,1437,1437,1437,1437,1437,1437,
+1483,1459,1461,1584,1581,1581,1459,1509,1483,1481,1483,1459,1509,1483,1481,1376,1377,0,1508,1460,1509,1376,1328,1328,1328,1328,1328,1377,0,1508,1509,1351,1437,1437,1437,1437,1437,1437,1437,1437,1349,1486,1505,1459,1460,1461,1481,1376,1328,1328,1329,1437,1437,1437,
+1505,1481,1483,1561,1561,1560,1481,0,1483,1481,1483,1481,1486,1505,1481,0,0,0,0,0,1486,1504,1504,1504,1504,1504,1504,1487,0,0,1354,1373,1437,1437,1437,1437,1437,1437,1437,1327,1377,1508,1460,1509,0,1483,1503,1504,1504,1487,1376,1328,1328,1329,
+1459,1509,1483,1459,1461,1580,1481,0,1483,1503,1505,1481,1508,1460,1509,0,0,0,1486,1504,1505,1459,1460,1460,1460,1461,1581,1503,1487,1354,1373,1437,1437,1437,1437,1437,1437,1437,1437,1371,1372,1372,1372,1372,1355,1508,1460,1461,1560,1503,1504,1504,1487,1351,
+1481,0,1483,1481,1508,1460,1509,1486,1505,1581,1582,1481,1486,1504,1504,1504,1504,1504,1505,1584,1583,1503,1504,1504,1504,1505,1560,1459,1509,1376,1328,1328,1329,1437,1437,1437,1437,1437,1437,1327,1328,1329,1437,1327,1377,0,1486,1505,1582,1583,1459,1461,1481,1351,
+1481,0,1483,1481,0,0,1504,1505,1583,1581,1584,1503,1505,1560,1584,1459,1461,1560,1561,1580,1580,1580,1583,1584,1583,1584,1581,1503,1504,1504,1504,1487,1351,1437,1437,1437,1437,1327,1328,1377,1354,1373,1327,1377,1486,1504,1505,1560,1459,1460,1509,1483,1481,1376,
+1481,0,1483,1503,1487,1486,1459,1461,1584,1584,1581,1459,1461,1581,1560,1503,1505,1580,1459,1461,1561,1584,1561,1561,1581,1561,1459,1460,1460,1460,1461,1481,1376,1328,1328,1328,1328,1377,0,1354,1373,1328,1377,0,1483,1459,1460,1460,1509,1486,1504,1505,1503,1504,
+1481,0,1483,1459,1509,1508,1509,1483,1459,1460,1461,1503,1505,1584,1560,1583,1580,1584,1503,1505,1560,1581,1560,1561,1560,1583,1503,1504,1504,1504,1505,1503,1504,1504,1504,1504,1504,1487,0,1351,1327,1486,1504,1487,1508,1509,1354,1372,1355,1483,1580,1560,1582,1561,
+1481,0,1508,1509,0,0,1486,1505,1503,1504,1505,1582,1584,1561,1580,1582,1561,1560,1580,1582,1459,1461,1580,1581,1459,1460,1461,1561,1560,1561,1459,1461,1582,1580,1582,1583,1561,1503,1487,1351,1349,1508,1460,1509,1354,1372,1373,1327,1377,1483,1582,1583,1584,1459,
+1481,0,0,1354,1355,1486,1505,1584,1561,1561,1580,1584,1584,1560,1459,1460,1460,1460,1460,1460,1509,1483,1459,1461,1503,1504,1505,1459,1460,1460,1509,1508,1460,1460,1460,1461,1561,1560,1481,1351,1349,1354,1372,1372,1373,1437,1327,1377,1486,1505,1581,1459,1461,1503,
+1509,0,1354,1373,1349,1483,1560,1581,1580,1580,1581,1560,1582,1560,1503,1504,1504,1504,1504,1504,1504,1505,1503,1505,1459,1460,1460,1509,0,0,0,0,1486,1504,1504,1505,1584,1459,1509,1351,1371,1373,1437,1437,1327,1328,1377,1486,1505,1584,1560,1503,1505,1560,
+0,0,1376,1329,1349,1508,1461,1561,1583,1582,1561,1560,1459,1460,1460,1460,1460,1461,1560,1459,1460,1460,1460,1460,1509,0,0,0,1486,1504,1504,1504,1505,1581,1561,1561,1459,1509,1354,1373,1437,1437,1327,1328,1377,1486,1504,1505,1581,1583,1560,1583,1584,1580,
+0,0,0,1376,1377,0,1508,1461,1582,1459,1460,1461,1503,1504,1504,1504,1504,1505,1560,1503,1504,1504,1504,1504,1504,1504,1504,1504,1505,1583,1560,1583,1580,1581,1459,1460,1509,1354,1373,1327,1328,1328,1377,1486,1504,1505,1581,1583,1560,1581,1583,1581,1560,1580,
+0,1486,1487,0,0,1354,1355,1508,1461,1503,1504,1505,1580,1583,1560,1580,1580,1561,1561,1560,1560,1584,1561,1560,1583,1584,1580,1584,1581,1584,1582,1560,1580,1459,1509,1354,1372,1373,1327,1377,1486,1504,1504,1505,1580,1560,1584,1584,1560,1561,1584,1459,1460,1460,
+0,1483,1503,1504,1487,1376,1377,0,1508,1460,1460,1460,1460,1460,1460,1460,1460,1460,1461,1581,1582,1582,1580,1561,1582,1582,1584,1459,1460,1460,1460,1460,1460,1509,0,1376,1328,1328,1377,1504,1505,1583,1580,1582,1584,1584,1561,1582,1459,1460,1460,1509,1354,1372,
+0,1508,1461,1583,1503,1504,1504,1504,1504,1504,1487,1354,1372,1372,1355,0,1354,1355,1508,1460,1460,1460,1460,1460,1460,1460,1460,1509,1354,1372,1355,0,0,0,1486,1504,1504,1505,1560,1583,1580,1581,1580,1581,1581,1459,1460,1460,1509,1354,1372,1372,1373,1437,
+0,0,1483,1582,1581,1560,1582,1580,1561,1580,1481,1376,1328,1328,1377,1354,1373,1371,1372,1372,1372,1372,1372,1355,0,0,0,0,1376,1328,1377,1486,1504,1504,1505,1581,1580,1580,1583,1561,1561,1583,1459,1460,1460,1509,1354,1372,1372,1373,1437,1437,1437,1437,
+1350,0,1483,1580,1582,1582,1583,1582,1583,1560,1503,1487,0,1354,1372,1373,1437,1437,1437,1327,1328,1328,1328,1377,1486,1487,1486,1504,1504,1504,1504,1505,1561,1582,1560,1583,1581,1561,1459,1460,1460,1460,1509,1354,1372,1372,1373,1437,1437,1437,1437,1437,1437,1437,
+1487,0,1483,1560,1581,1561,1581,1582,1583,1583,1459,1509,1354,1373,1437,1327,1328,1328,1328,1377,1486,1504,1504,1504,1505,1503,1505,1584,1584,1584,1561,1584,1583,1581,1561,1459,1460,1460,1509,1354,1372,1372,1372,1373,1437,1437,1437,1437,1437,1437,1437,1437,1437,1437,
+1481,0,1483,1459,1461,1582,1561,1560,1581,1560,1481,1354,1373,1437,1327,1377,1486,1504,1504,1504,1505,1459,1460,1461,1584,1581,1583,1560,1583,1584,1459,1460,1460,1460,1460,1509,1354,1372,1372,1373,1437,1437,1437,1437,1437,1437,1437,1437,1437,1437,1437,1437,1437,1437,
+1503,1504,1505,1503,1505,1584,1581,1459,1460,1460,1509,1351,1327,1328,1377,1486,1505,1584,1459,1460,1460,1509,1486,1505,1561,1582,1561,1581,1459,1461,1503,1504,1487,0,1354,1372,1373,1437,1437,1437,1437,1437,1437,1437,1437,1437,1327,1329,1437,1437,1437,1327,1328,1328,
+1460,1460,1460,1460,1460,1460,1460,1509,0,0,0,1376,1377,1486,1504,1505,1459,1460,1509,0,1486,1505,1580,1560,1582,1583,1580,1459,1509,1483,1459,1460,1509,0,1376,1328,1328,1328,1328,1328,1329,1437,1437,1437,1437,1327,1377,1376,1328,1328,1328,1377,1350,1350,
+1350,1350,1350,1350,1350,1350,1350,1350,1350,1350,1486,1504,1504,1505,1459,1460,1509,1486,1504,1504,1505,1561,1584,1459,1460,1460,1461,1503,1504,1505,1481,1350,1350,1350,1350,1350,1350,1350,1350,1350,1376,1328,1328,1328,1328,1377,1350,1350,1350,1350,1350,1350,1350,1350
+</data>
+ </layer>
+</map>

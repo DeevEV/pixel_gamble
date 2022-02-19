@@ -1,0 +1,249 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/test.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "Все файлы (*)",
+    "fileStates": {
+        "": {
+            "scaleInEditor": 1
+        },
+        "#4": {
+            "dynamicWrapping": true
+        },
+        "C:/Users/EGOR/AppData/Local/Temp/Rar$DIa20176.27130/sample_indoor.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 290.66666666666663,
+                "y": 252
+            }
+        },
+        "C:/Users/EGOR/AppData/Local/Temp/Rar$DIa20176.27130/sample_indoor.tmx#roguelikeSheet_transparent": {
+            "scaleInDock": 1
+        },
+        "C:/Users/EGOR/AppData/Local/Temp/Rar$DIa20176.30376/sample_map.tmx": {
+            "scale": 0.21612499999999998,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 800.4626951995373,
+                "y": 800.4626951995373
+            }
+        },
+        "C:/Users/EGOR/AppData/Local/Temp/Rar$DIa20176.30376/sample_map.tmx#Roguelike": {
+            "scaleInDock": 1
+        },
+        "C:/Users/EGOR/Desktop/tmw_desert_spacing.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/EGOR/Desktop/безымянный.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -29.5,
+                "y": -12527
+            }
+        },
+        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/Overworld.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/Rpg.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1642.4242424242423,
+                "y": 733.3333333333333
+            }
+        },
+        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/Rpg.tmx#0": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/Rpg.tmx#01": {
+            "scaleInDock": 1
+        },
+        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/Rpg.tmx#02": {
+            "scaleInDock": 1
+        },
+        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/Rpg.tmx#03": {
+            "scaleInDock": 1
+        },
+        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/Rpg.tmx#04": {
+            "scaleInDock": 1
+        },
+        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/Rpg.tmx#05": {
+            "scaleInDock": 1
+        },
+        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/Rpg.tmx#06": {
+            "scaleInDock": 1
+        },
+        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/Rpg.tmx#07": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/Rpg.tmx#08": {
+            "scaleInDock": 1
+        },
+        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/Rpg.tmx#09": {
+            "scaleInDock": 1
+        },
+        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/Rpg.tmx#10": {
+            "scaleInDock": 1
+        },
+        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/Rpg.tmx#11": {
+            "scaleInDock": 1
+        },
+        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/Rpg.tmx#12": {
+            "scaleInDock": 1
+        },
+        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/Rpg.tmx#13": {
+            "scaleInDock": 1
+        },
+        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/Rpg.tmx#14": {
+            "scaleInDock": 1
+        },
+        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/Rpg.tmx#15": {
+            "scaleInDock": 1
+        },
+        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/Rpg.tmx#16": {
+            "scaleInDock": 1
+        },
+        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/Rpg.tmx#17": {
+            "scaleInDock": 1
+        },
+        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/Rpg.tmx#18": {
+            "scaleInDock": 1
+        },
+        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/Rpg.tmx#19": {
+            "scaleInDock": 1
+        },
+        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/Rpg.tmx#20": {
+            "scaleInDock": 1
+        },
+        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/Rpg.tmx#Floor": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/Rpg.tmx#Map Pack": {
+            "scaleInDock": 1
+        },
+        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/Rpg.tmx#RPGpack": {
+            "scaleInDock": 1
+        },
+        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/Rpg.tmx#Tiles": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/Rpg.tmx#grass_1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/Rpg.tmx#grass_2": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/Rpg.tmx#grass_3": {
+            "scaleInDock": 1
+        },
+        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/grass_night.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/mapPack_spritesheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/test.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2104,
+                "y": 822
+            }
+        },
+        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/test.tmx#4": {
+            "scaleInDock": 1
+        },
+        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/test.tmx#grass": {
+            "scaleInDock": 1
+        },
+        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/test.tmx#rock": {
+            "scaleInDock": 1
+        },
+        "C:/Users/EGOR/Python/game_pygame/maps/map1.tmx": {
+            "scale": 1.4,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 335.3571428571429,
+                "y": 303.2142857142857
+            }
+        },
+        "C:/Users/EGOR/Python/game_pygame/maps/tmw_desert_spacing.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/EGOR/Python/game_pygame/maps/ьфз2.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 57,
+                "y": 16
+            }
+        },
+        "main.tmx": {
+            "scale": 0.3551704545454545,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1694.9608062709967,
+                "y": 864.3737002079669
+            }
+        },
+        "main.tmx#mapPack_spritesheet": {
+            "scaleInDock": 1
+        }
+    },
+    "last.externalTilesetPath": "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles",
+    "last.imagePath": "C:/Users/EGOR/Desktop/kenneyrpgpack/Spritesheet",
+    "map.fixedSize": true,
+    "map.height": 27,
+    "map.lastUsedFormat": "tmx",
+    "map.layerDataFormat": null,
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "map.width": 54,
+    "openFiles": [
+        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/Rpg.tmx",
+        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/test.tmx"
+    ],
+    "project": "pixel_gamble.tiled-project",
+    "recentFiles": [
+        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/Rpg.tmx",
+        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/test.tmx",
+        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/mapPack_spritesheet.tsx",
+        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/grass_night.tsx",
+        "main.tmx",
+        "C:/Users/EGOR/AppData/Local/Temp/Rar$DIa20176.30376/sample_map.tmx",
+        "C:/Users/EGOR/AppData/Local/Temp/Rar$DIa20176.27130/sample_indoor.tmx",
+        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/Overworld.tsx",
+        "C:/Users/EGOR/Python/game_pygame/maps/ьфз2.tmx",
+        "C:/Users/EGOR/Python/game_pygame/maps/map1.tmx",
+        "C:/Users/EGOR/Desktop/tmw_desert_spacing.tsx",
+        "C:/Users/EGOR/Desktop/безымянный.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFilter": "Все файлы (*)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.margin": 0,
+    "tileset.spacing": 0,
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 64
+    },
+    "tileset.type": 1
+}
