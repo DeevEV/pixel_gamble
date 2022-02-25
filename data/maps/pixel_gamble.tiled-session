@@ -3,15 +3,19 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/test.tmx",
+    "activeFile": "map.tmx",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "Все файлы (*)",
     "fileStates": {
         "": {
+            "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "#4": {
+            "dynamicWrapping": true
+        },
+        "#r1_9": {
             "dynamicWrapping": true
         },
         "C:/Users/EGOR/AppData/Local/Temp/Rar$DIa20176.27130/sample_indoor.tmx": {
@@ -57,8 +61,8 @@
             "scale": 0.33,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1642.4242424242423,
-                "y": 733.3333333333333
+                "x": 1727.2727272727273,
+                "y": 866.6666666666665
             }
         },
         "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/Rpg.tmx#0": {
@@ -164,7 +168,7 @@
             "selectedLayer": 0,
             "viewCenter": {
                 "x": 2104,
-                "y": 822
+                "y": 821
             }
         },
         "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/test.tmx#4": {
@@ -206,23 +210,175 @@
         },
         "main.tmx#mapPack_spritesheet": {
             "scaleInDock": 1
+        },
+        "map.tmx": {
+            "scale": 0.6511458333333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 950.6318988961766,
+                "y": 546.7285234362503
+            }
+        },
+        "map.tmx#g0": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map.tmx#g1_1": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map.tmx#g1_2": {
+            "scaleInDock": 1
+        },
+        "map.tmx#g1_3": {
+            "scaleInDock": 1
+        },
+        "map.tmx#g1_4": {
+            "scaleInDock": 1
+        },
+        "map.tmx#g1_5": {
+            "scaleInDock": 1
+        },
+        "map.tmx#g1_6": {
+            "scaleInDock": 1
+        },
+        "map.tmx#g1_7": {
+            "scaleInDock": 1
+        },
+        "map.tmx#g1_8": {
+            "scaleInDock": 1
+        },
+        "map.tmx#g1_9": {
+            "scaleInDock": 1
+        },
+        "map.tmx#g2_1": {
+            "scaleInDock": 1
+        },
+        "map.tmx#g2_2": {
+            "scaleInDock": 1
+        },
+        "map.tmx#g2_3": {
+            "scaleInDock": 1
+        },
+        "map.tmx#g2_4": {
+            "scaleInDock": 1
+        },
+        "map.tmx#g2_5": {
+            "scaleInDock": 1
+        },
+        "map.tmx#g2_6": {
+            "scaleInDock": 1
+        },
+        "map.tmx#g2_7": {
+            "scaleInDock": 1
+        },
+        "map.tmx#g2_8": {
+            "scaleInDock": 1
+        },
+        "map.tmx#g3_1": {
+            "scaleInDock": 1
+        },
+        "map.tmx#g3_2": {
+            "scaleInDock": 1
+        },
+        "map.tmx#g3_3": {
+            "scaleInDock": 1
+        },
+        "map.tmx#g4_1": {
+            "scaleInDock": 1
+        },
+        "map.tmx#g4_2": {
+            "scaleInDock": 1
+        },
+        "map.tmx#g4_3": {
+            "scaleInDock": 1
+        },
+        "map.tmx#r1_1": {
+            "scaleInDock": 1
+        },
+        "map.tmx#r1_2": {
+            "scaleInDock": 1
+        },
+        "map.tmx#r1_3": {
+            "scaleInDock": 1
+        },
+        "map.tmx#r1_4": {
+            "scaleInDock": 1
+        },
+        "map.tmx#r1_5": {
+            "scaleInDock": 1
+        },
+        "map.tmx#r1_6": {
+            "scaleInDock": 1
+        },
+        "map.tmx#r1_7": {
+            "scaleInDock": 1
+        },
+        "map.tmx#r1_8": {
+            "scaleInDock": 1
+        },
+        "map.tmx#r1_9": {
+            "scaleInDock": 1
+        },
+        "map.tmx#rock": {
+            "scaleInDock": 1
+        },
+        "map.tmx#t1": {
+            "dynamicWrapping": false
+        },
+        "map.tmx#t1_1": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "map.tmx#t1_10": {
+            "scaleInDock": 1
+        },
+        "map.tmx#t1_11": {
+            "scaleInDock": 1
+        },
+        "map.tmx#t1_2": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "map.tmx#t1_3": {
+            "scaleInDock": 1
+        },
+        "map.tmx#t1_4": {
+            "scaleInDock": 1
+        },
+        "map.tmx#t1_5": {
+            "scaleInDock": 1
+        },
+        "map.tmx#t1_6": {
+            "scaleInDock": 1
+        },
+        "map.tmx#t1_7": {
+            "scaleInDock": 1
+        },
+        "map.tmx#t1_8": {
+            "scaleInDock": 1
+        },
+        "map.tmx#t1_9": {
+            "scaleInDock": 1
         }
     },
     "last.externalTilesetPath": "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles",
     "last.imagePath": "C:/Users/EGOR/Desktop/kenneyrpgpack/Spritesheet",
     "map.fixedSize": true,
-    "map.height": 27,
+    "map.height": 17,
     "map.lastUsedFormat": "tmx",
     "map.layerDataFormat": null,
     "map.tileHeight": 64,
     "map.tileWidth": 64,
-    "map.width": 54,
+    "map.width": 30,
     "openFiles": [
-        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/Rpg.tmx",
-        "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/test.tmx"
+        "map.tmx"
     ],
     "project": "pixel_gamble.tiled-project",
     "recentFiles": [
+        "map.tmx",
         "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/Rpg.tmx",
         "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/test.tmx",
         "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/mapPack_spritesheet.tsx",
@@ -233,8 +389,7 @@
         "C:/Users/EGOR/Python/Pixel_Gamble/data/textures/tiles/Overworld.tsx",
         "C:/Users/EGOR/Python/game_pygame/maps/ьфз2.tmx",
         "C:/Users/EGOR/Python/game_pygame/maps/map1.tmx",
-        "C:/Users/EGOR/Desktop/tmw_desert_spacing.tsx",
-        "C:/Users/EGOR/Desktop/безымянный.tmx"
+        "C:/Users/EGOR/Desktop/tmw_desert_spacing.tsx"
     ],
     "tileset.embedInMap": true,
     "tileset.lastUsedFilter": "Все файлы (*)",
@@ -245,5 +400,5 @@
         "height": 64,
         "width": 64
     },
-    "tileset.type": 1
+    "tileset.type": 0
 }
