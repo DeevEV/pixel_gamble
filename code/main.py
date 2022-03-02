@@ -1,17 +1,21 @@
-import pygame, sys
+import sys
+
 from data import *
 from level import Level
 
 
 class Game:
     def __init__(self):
-        # ЗАПУСК ИГРЫ
         pygame.init()
         self.screen = pygame.display.set_mode((WIDTH, HEIGTH))
         pygame.display.set_caption('Pixel Gamble')
         self.clock = pygame.time.Clock()
 
-        self.level = Level()  # ЗАГРУЗКА КАРТЫ
+        self.level = Level()
+
+        main_sound = pygame.mixer.Sound('../data/audio/main.wav')
+        main_sound.set_volume(0.5)
+        main_sound.play(loops=-1)
 
     def run(self):
         while True:
@@ -19,11 +23,13 @@ class Game:
                 if event.type == pygame.QUIT:
                     pygame.quit()
                     sys.exit()
+                if event.type == pygame.KEYDOWN:
+                    if event.key == pygame.K_ESCAPE:
+                        pygame.quit()
+                        sys.exit()
 
             self.screen.fill('black')
-
-            self.level.run()  # ОТРИСОВКА КАРТЫ
-
+            self.level.run()
             pygame.display.update()
             self.clock.tick(FPS)
 
