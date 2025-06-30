@@ -108,7 +108,7 @@ python main.py
 ## Контакты разработчика
 
 **Деев Егор Викторович**  
-- GitHub: [@DeevEV](https://github.com/DeevEV)
+- GitHub: [@EDeev](https://github.com/EDeev)
 - Email: egor@deev.space
 - Веб-сайт: [deev.space](https://deev.space)
 
