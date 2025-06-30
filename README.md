@@ -105,16 +105,16 @@ python main.py
 - Модульная архитектура уровней
 - Гибкая система анимаций
 
-## Контакты разработчика
-
-**Деев Егор Викторович**  
-- GitHub: [@EDeev](https://github.com/EDeev)
-- Email: egor@deev.space
-- Веб-сайт: [deev.space](https://deev.space)
-
 ## Лицензия
 
 Этот проект распространяется под лицензией MIT.
+
+## Контакты разработчика
+
+**Деев Егор Викторович** - Backend Developer  
+- GitHub: [@EDeev](https://github.com/EDeev)
+- Email: egor@deev.space
+- Telegram: [@Egor_Deev](https://t.me/Egor_Deev)
 
 ---
 
